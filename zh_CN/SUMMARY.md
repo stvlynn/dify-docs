@@ -108,6 +108,11 @@
 * [管理](guides/management/README.md)
   * [管理应用](guides/management/manage-app.md)
 
+## 动手实验室 <a href="workshop" id="workshop"></a>
+
+* [初级](workshop/basic.md)
+  *[如何搭建 AI 图片生成应用](workshop/build-ai-image-generation-app.md)
+
 ## 社区 <a href="#community" id="community"></a>
 
 * [寻求支持](community/support.md)

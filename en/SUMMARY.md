@@ -108,6 +108,11 @@
 * [Management](guides/management/README.md)
   * [Manage App](guides/management/manage-app.md)
 
+## Workshop <a href="workshop" id="workshop"></a>
+
+* [Basic](workshop/README.md)
+  * [How to Build an AI Image Generation App](workshop/basic/build-ai-image-generation-app.md)
+
 ## Community
 
 * [Seek Support](community/support.md)

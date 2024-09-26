@@ -110,8 +110,8 @@
 
 ## 动手实验室 <a href="workshop" id="workshop"></a>
 
-* [初级](workshop/basic.md)
-  *[如何搭建 AI 图片生成应用](workshop/build-ai-image-generation-app.md)
+* [初级](workshop/basic/README.md)
+  *[如何搭建 AI 图片生成应用](workshop/basic/build-ai-image-generation-app.md)
 
 ## 社区 <a href="#community" id="community"></a>
 

@@ -88,7 +88,7 @@ Dify 目前支持多个 Rerank 模型，进入 “模型供应商” 页填入 R
 
 以下是知识库检索方式对文本召回的影响情况：
 
-![](../../../img/zh-integrate-knowledge-within-app.png)
+![](https://assets-docs.dify.ai/img/zh_CN/knowledge-base/579acac25d00a2c40abd5f40be558e5b.webp)
 
 3. **引用多个知识库时，无法调整 “权重设置”，提示错误应如何处理？**
 

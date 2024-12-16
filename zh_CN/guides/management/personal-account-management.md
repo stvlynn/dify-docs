@@ -11,7 +11,7 @@ Dify 不同版本支持的登录方式如下：
 
 > 注意：Dify 的云服务版本账户，如果 GitHub 或 Google 账户的绑定邮箱与使用邮箱验证码登录的邮箱相同，系统会自动将它们关联为同一账户，无需手动绑定，避免重复注册。
 
-![](../../../img/zh-personal-account-1.png)
+![](https://assets-docs.dify.ai/img/zh_CN/management/0c73766625dc274acc8f93a88481566b.webp)
 
 ## 修改账号信息
 

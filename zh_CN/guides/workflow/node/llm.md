@@ -47,7 +47,7 @@ LLM 节点是 Chatflow/Workflow 的核心节点。该节点能够利用大语言
 
 如果在编写系统提示词（SYSTEM）时没有好的思路，也可以使用提示生成器功能，借助 AI 能力快速生成适合实际业务场景的提示词。
 
-![提示生成器](../../../.gitbook/assets/zh-node-llm-prompt-generator.png)
+![提示生成器](https://assets-docs.dify.ai/img/zh_CN/node/064191d22b91145d5e268c3a5c61f3f3.webp)
 
 在提示词编辑器中，你可以通过输入 **“/”** 或者 **“{”** 呼出 **变量插入菜单**，将 **特殊变量块** 或者 **上游节点变量** 插入到提示词中作为上下文内容。
 

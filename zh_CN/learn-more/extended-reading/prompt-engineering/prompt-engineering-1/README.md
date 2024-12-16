@@ -6,7 +6,7 @@
 
 在你开始尝试新模式前，你需要知道**专家模式**下的必要元素：
 
-*   **文本补全模型** ![](../../../../.gitbook/assets/screenshot-20231017-092613.png)
+*   **文本补全模型** ![](https://assets-docs.dify.ai/img/zh_CN/prompt-engineering-1/22eb2f8f25741ced31c7f22504bf3f49.webp)
 
     在选择模型的时候，模型名字的右侧显示 COMPLETE 的即为文本补全模型，该类模型接受名为“提示词”的自由格式文本字符串，模型将生成一个文本补全，试图匹配你给它的任何上下文或模式。例如，如果你给的提示词：“正如笛卡尔所说，我思故”，它将高概率返回“我在”作为补全。
 *   **聊天模型** <img src="../../../../.gitbook/assets/screenshot-20231017-092957.png" alt="" data-size="line">

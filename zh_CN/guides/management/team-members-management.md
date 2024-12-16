@@ -21,7 +21,7 @@
 - 若被邀请的成员未注册 Dify，将收到一封邀请邮件，点击邮件中的链接即可完成注册。
 - 若被邀请成员已注册 Dify，系统将自动分配权限，**同时不再发送邀请邮件**。被邀成员可以在右上角头像处切换至新的 Workspace。
 
-![](../../../img/switch-workspace.png)
+![](https://assets-docs.dify.ai/img/zh_CN/management/127c49e4102f75e9acc5d1cf37a51f14.webp)
 
 ### 成员权限
 

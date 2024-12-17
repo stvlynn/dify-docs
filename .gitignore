@@ -31,3 +31,9 @@ conversion_progress_*.yaml
 
 # node
 node_modules/
+
+# conversion
+conversion_progress_jp.yaml
+conversion_progress_en.yaml
+conversion_progress_zh_CN.yaml
+image_conversion.log

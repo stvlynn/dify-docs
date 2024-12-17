@@ -11,10 +11,12 @@ import yaml
 from tqdm import tqdm
 import time
 import logging
+
 from dotenv import load_dotenv
 
 # 加载环境变量
 load_dotenv()
+
 
 # 配置日志
 logging.basicConfig(
@@ -27,6 +29,7 @@ logging.basicConfig(
 )
 
 # S3配置
+
 S3_ENDPOINT = os.getenv('S3_ENDPOINT')
 S3_ACCESS_KEY = os.getenv('S3_ACCESS_KEY')
 S3_SECRET_KEY = os.getenv('S3_SECRET_KEY')
@@ -38,6 +41,7 @@ required_env_vars = ['S3_ENDPOINT', 'S3_ACCESS_KEY', 'S3_SECRET_KEY', 'S3_BUCKET
 missing_vars = [var for var in required_env_vars if not os.getenv(var)]
 if missing_vars:
     raise ValueError(f"缺少必要的环境变量: {', '.join(missing_vars)}\n请复制 .env.example 为 .env 并填写配置")
+
 
 # 进度文件路径模板
 PROGRESS_FILE_TEMPLATE = 'conversion_progress_{lang}.yaml'
